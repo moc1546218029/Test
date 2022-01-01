@@ -2,7 +2,10 @@
 
 [![npm version](https://img.shields.io/npm/v/gogocode.svg)](https://www.npmjs.com/package/gogocode) [![license](https://img.shields.io/npm/l/gogocode.svg)](LICENSE) 
 
+GoGoCode 就是一个工具而已。
 
+-   一套类 Jquery 的 API 用来查找和处理 AST
+-   一套和正则表达式接近的语法用来匹配和替换代码
 ## What is GoGoCode?
 
 [中文 README](README-cn.md)
